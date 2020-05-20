@@ -1,7 +1,5 @@
 # The Template Manifesto 📢
 
-![GitHub](https://img.shields.io/github/license/template-home/generic-project)
-
 Start a project from scratch although important for learning purposes it is not a must when we need to quickly start a project.
 
 ## The goal
