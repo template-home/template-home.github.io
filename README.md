@@ -8,13 +8,11 @@ Start a project from scratch although important for learning purposes it is not 
 
 To find, list and advertise templates and boilerplates for software projects.
 
-### How
+### Find
 
-#### Find
+### List
 
-#### List
-
-#### Advertise
+### Advertise
 
 ## Credits 
 
@@ -23,6 +21,8 @@ All projects are a colletive work and its crucial to give credit to all contribu
 Thanks to the following contributors:
 
 - [iconella](https://www.iconfinder.com/iconella) organization icon
+
+- [@orderedlist](https://github.com/orderedlist) for the greate [minimal theme](https://github.com/orderedlist/minimal).
 
 ## See also
 
